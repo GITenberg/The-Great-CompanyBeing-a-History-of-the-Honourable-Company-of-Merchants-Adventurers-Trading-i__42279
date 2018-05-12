@@ -1,0 +1,51 @@
+_repo: The-Great-CompanyBeing-a-History-of-the-Honourable-Company-of-Merchants-Adventurers-Trading-i__42279
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Strathcona and Mount Royal, Donald Alexander Smith, Baron
+    aliases:
+    - Royal, Donald Alexander Smith, Baron Strathcona and Mount
+    - Smith, Donald Alexander, Baron Strathcona and Mount Royal
+    - Mount Royal, Donald Alexander Smith, Baron Strathcona and
+    - Strathcona and Mount Royal, Lord
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '41594'
+    url: http://www.gutenberg.org/2009/agents/41594
+  illustrator:
+    agent_name: Heming, Arthur
+    alias: Heming, Arthur Henry Howard
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '8067'
+    url: http://www.gutenberg.org/2009/agents/8067
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willson, Beckles
+    alias: Willson, Henry Beckles
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38444'
+    url: http://www.gutenberg.org/2009/agents/38444
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- History'
+- !lcsh 'Fur trade -- Canada'
+- !lcc 'F1001'
+- !lcsh 'Hudson''s Bay Company'
+title: 'The Great Company
+
+  Being a History of the Honourable Company of Merchants-Adventurers Trading into
+  Hudson''s Bay'
+url: http://www.gutenberg.org/ebooks/42279
